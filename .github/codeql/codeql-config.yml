@@ -3,7 +3,7 @@
 
 query-filters:
   - exclude:
-      id: js/redundant-assignment
+      id: js/hardcoded-credentials
 
 paths-ignore:
   - 'data/static/codefixes/**'
